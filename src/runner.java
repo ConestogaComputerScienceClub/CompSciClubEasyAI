@@ -8,7 +8,7 @@ public class runner {
 	static Point foodM = new Point(5, 5);
 	static Point user = new Point(0, 0);
 	static int points = 0;
-	static boolean isRunning = false;
+	static boolean isRunning = true;
 
 	public static void main(String[] args) {
 		new Timer();
